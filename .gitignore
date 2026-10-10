@@ -1,0 +1,7 @@
+data/
+old_scripts/
+venv/
+*asd*
+*.csv
+.vscode/
+MANIFEST.md
